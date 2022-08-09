@@ -1,4 +1,4 @@
 # first-day-repo
 Class Practice
 
-test chnage by scott
+test change by scott
